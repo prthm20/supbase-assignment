@@ -56,7 +56,7 @@ const SignIn = () => {
           </form>
 
           <div className="mt-6 text-center">
-            <p className="text-sm text-gray-600">Don't have an account?{' '}
+            <p className="text-sm text-gray-600">Don`&apos;`t have an account?{' '}
               <Link href="">
                 sign Up Now
               </Link>
