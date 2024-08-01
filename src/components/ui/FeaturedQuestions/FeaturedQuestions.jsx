@@ -24,7 +24,7 @@ export default function FAQSection() {
               runs]. Each pricing plan includes a certain number of compute
               hours; how quickly you consume these hours depends on the size of
               your compute and how long it runs. Once you exceed the allocated
-              amount of compute hours, you'll be billed for overages in a given
+              amount of compute hours, you`&apos;`ll be billed for overages in a given
               month.
             </AccordionContent>
           </AccordionItem>
@@ -48,7 +48,7 @@ export default function FAQSection() {
               When will I be billed?
             </AccordionTrigger>
             <AccordionContent className="text-gray-700 dark:text-gray-300">
-              Neon bills for the past month's usage at the beginning of each
+              Neon bills for the past month`&apos;`s usage at the beginning of each
               calendar month. For more information, see Manage billing.
             </AccordionContent>
           </AccordionItem>
@@ -60,7 +60,7 @@ export default function FAQSection() {
             <AccordionContent className="text-gray-700 dark:text-gray-300">
               You can get a good idea by estimating how many hours your
               databases run, and at which compute size. For example: imagine
-              you’re running a 2 CPU, 8 GB RAM database for 2 hours a day (or 62
+              you`&apos;`re running a 2 CPU, 8 GB RAM database for 2 hours a day (or 62
               hours per month). This equals [2 CU * 62 hours] = 124 compute
               hours per month.
             </AccordionContent>
@@ -97,7 +97,7 @@ export default function FAQSection() {
             </AccordionTrigger>
             <AccordionContent className="text-gray-700 dark:text-gray-300">
               Yes, we display your usage consumption in the Neon admin console
-              and we will also email you when you’re getting close.
+              and we will also email you when you`&apos;`re getting close.
             </AccordionContent>
           </AccordionItem>
 

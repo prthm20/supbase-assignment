@@ -10,7 +10,7 @@ export default function Component() {
   return (
     <div className="bg-background text-foreground p-8 md:p-12 lg:p-16">
       <div className="max-w-5xl mx-auto">
-        <h1 className="text-4xl md:text-5xl font-bold mb-4">Neon's Serverless Billing Fundamentals</h1>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4">Neon`&apos;`s Serverless Billing Fundamentals</h1>
         <p className="text-muted-foreground text-lg mb-8">
           A modern, serverless architecture that autoscales to handle varying workloads.
         </p>
@@ -18,7 +18,7 @@ export default function Component() {
           <div>
             <h2 className="text-2xl font-bold mb-4">Branch-based Storage</h2>
             <p className="text-muted-foreground mb-4">
-              Neon's Postgres databases can be branched like code, sharing the same underlying storage. This allows
+              Neon`&apos;`s Postgres databases can be branched like code, sharing the same underlying storage. This allows
               instant provisioning without additional storage costs.
             </p>
             <div className="bg-muted p-4 rounded-lg">
@@ -28,7 +28,7 @@ export default function Component() {
           <div>
             <h2 className="text-2xl font-bold mb-4">Autoscaling Serverless Compute</h2>
             <p className="text-muted-foreground mb-4">
-              Neon's serverless compute scales from 0.25 to 10 compute units (CUs) based on load. Compute usage is
+              Neon`&apos;`s serverless compute scales from 0.25 to 10 compute units (CUs) based on load. Compute usage is
               billed by the hour, with monthly plans including generous usage and extra hours billed separately.
             </p>
             <div className="bg-muted p-4 rounded-lg">
